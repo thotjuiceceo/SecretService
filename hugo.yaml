@@ -24,9 +24,19 @@ menu:
     - name: Registration
       pageRef: /signup
       weight: 2
-    - name: About
+    - identifier: about
+      name: About
       pageRef: /about
       weight: 1
+    - name: All About Us
+      pageRef: /about
+      parent: about
+    - name: Bar Crawl
+      pageRef: /about/crawl
+      parent: about
+    - name: Organizations
+      pageRef: /about/orgs
+      parent: about
     - name: Sponsors
       pageRef: /sponsors
       weight: 3  
@@ -47,6 +57,22 @@ menu:
       url: "https://www.instagram.com/thtjuice/"
       params:
         icon: instagram
+
+  sidebar:
+    - identifier: more
+      name: "More:"
+      params:
+        type: separator
+      weight: 1
+    - identifier: home
+      name: "Back to Home"
+      pageRef: "/"
+      weight: 2
+
+#banner:
+#  key: 'announcement-v0.11'
+#  message: |
+#    2/11/26 - 2026 Registration is now underway! 🎉 Sign up [here]({{% ref "signup/" %}})
 
 page:
   width: normal
