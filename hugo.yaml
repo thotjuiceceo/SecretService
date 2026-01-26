@@ -99,3 +99,7 @@ params:
   # light | dark | system
   default: dark
   dispalyToggle: false
+
+caches:
+  images:
+    dir: :cacheDir/images
