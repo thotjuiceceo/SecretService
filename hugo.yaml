@@ -1,5 +1,5 @@
 # Hugo configuration file
-baseURL: "http://thotjuiceceo.github.io/SecretService"
+baseURL: "/"
 languageCode: en-us
 title: Secret Service Project
 
@@ -60,4 +60,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/thotjuiceceo/SecretService/edit/main/content"
