@@ -4,8 +4,8 @@ draft: false
 title: 'What is Secret Service?'
 ---
 
-A community-building event.
+A community-building event!
 
-![](/images/branding/IMG_E0325.jpg)
+![](/images/branding/jonathan24.jpg)
 
 We are unaffiliated with the federal government.
