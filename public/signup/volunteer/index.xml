@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secret Service Project – Volunteer Opportunities</title>
+    <link>http://localhost:1313/SecretService/signup/volunteer/</link>
+    <description>Recent content in Volunteer Opportunities on Secret Service Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jan 2026 21:17:11 -0600</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/SecretService/signup/volunteer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secret Service Project – The Womens Safe House</title>
+    <link>http://localhost:1313/SecretService/about/orgs/safehouse/</link>
+    <description>Recent content in The Womens Safe House on Secret Service Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jan 2026 18:49:46 -0600</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/SecretService/about/orgs/safehouse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

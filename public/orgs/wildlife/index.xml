@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secret Service Project – Wildlife Mediation</title>
+    <link>http://localhost:1313/SecretService/orgs/wildlife/</link>
+    <description>Recent content in Wildlife Mediation on Secret Service Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jan 2026 22:00:49 -0600</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/SecretService/orgs/wildlife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

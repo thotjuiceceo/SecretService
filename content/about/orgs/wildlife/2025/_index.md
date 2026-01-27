@@ -18,7 +18,7 @@ Anyways, the shelter had been breached by rats over the Winter, and was littered
 
 The approach of rain had us pivot to cleaning out the garage full of donations and storage supplies. It is cold. We are drenched and covered in wild animal nastiness. The support staff are chain-smoking cigarettes. Morale is low. We finally finish. LeeAnn smokes another cigarette, then enters her house. She returns with two baby raccoons eager to thank us for our hard work. Its cold out, and the racoons keep trying to crawl into our shirts to stay warm. 
 
-![](/images/2025/raccooncold.jpg "United at last")
+![](/images/2025/raccooncold.jpg "Chilly baby")
 
 Meeting the animals was unforgettable and instantly made everything worth it.
 
