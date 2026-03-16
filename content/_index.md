@@ -1,26 +1,16 @@
 ---
 date: '2026-01-12T21:16:55-06:00'
 draft: false
-title: Secret Service Project
+title: The Secret Service Project - Home
 ---
+Welcome to the home of Saint Louis' Secret Service Project - an annual bar crawl and volunteer event.
 
-Secret Service is a not-for-profit event 
-benefitting the Saint Louis 
-metropolitan area. 
-In the morning, participants 
-volunteer at the nonprofit of 
-their choice. In the afternoon, 
-all participating groups come 
-together for a bar crawl to mingle 
-and drink to their accomplishments! 
+# Secret Service 2026 - Announcement
 
+The third annual Secret Service Event will take place **Saturday, June 13th 2026** on Morgan Ford Road in the Tower Grove South neighborhood of Saint Louis. More information is available in the [About](https://thotjuiceceo.github.io/SecretService/about/) section of this website.
 
-Secret service is a free event! We encourage you to purchase a T-shirt and wear it on the crawl! It unifies us as a group, and it pays for the website hosting and advertising for next year's event.
+Registration and T-Shirt sign-ups will go live in mid-April. To stay up to date and receive reminders, please indicate your interest in the event by filling out a [RSVP](https://secretservice2026.anrsvp.com/#home)! A coordinator will reach out to you when it is time to sign up. In the meantime, please **save the date** on your calendar, and think about where you would like to volunteer!
 
-
-# Secret Service 2026
-[Choose the date for 2026](https://docs.google.com/forms/d/e/1FAIpQLSejXjKrYQGSO9irJqBJvOXsJ21ujP_5E5Eo-29Mf2bGDCLdAw/viewform?usp=publish-editor) (Pls fill out by Feb 24)
-
-Registration will go live two months before the date of the event, so probably early-mid March.
+Posted March 15, 2026 9:07PM
 
 ![](/images/branding/trashservice.png)

@@ -37,6 +37,9 @@ menu:
     - name: Organizations
       pageRef: /about/orgs
       parent: about
+    - name: T-Shirts
+      pageRef: /about/shirts
+      parent: about
     - name: Sponsors
       pageRef: /sponsors
       weight: 3  
