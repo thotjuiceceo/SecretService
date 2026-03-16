@@ -4,10 +4,10 @@ draft: false
 title: 'What is Secret Service?'
 ---
 
+Secret Service is a not-for-profit community-building event benefitting the Saint Louis metropolitan area. In the morning, participants volunteer at the nonprofit of their choice. In the afternoon, all participating groups come together for a bar crawl to mingle and drink to their accomplishments! (continue scrolling)
+
 ![](/images/branding/jonathan24.jpg)
 <!-- <img src="/images/branding/jonathan24.jpg" alt="Alt Text" style="width:50%; height:auto;"> -->
-
-Secret Service is a not-for-profit community-building event benefitting the Saint Louis metropolitan area. In the morning, participants volunteer at the nonprofit of their choice. In the afternoon, all participating groups come together for a bar crawl to mingle and drink to their accomplishments! 
 
 8AM-Noon: Service events
 Sign up ahead of time for a service event with a group of your friends! Volunteer anywhere you like, or choose an event from our [list of available opportunities](https://thotjuiceceo.github.io/SecretService/signup/).
